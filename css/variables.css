@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'Raleway_ExtraBold';
+    src: url("../assets/fonts/Raleway/Raleway-ExtraBold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'Lato_Regular';
+    src: url("../assets/fonts/Lato/Lato-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'Lato_Semibold';
+    src: url("../assets/fonts/Lato/Lato-Semibold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'Lato_Bold';
+    src: url("../assets/fonts/Lato/Lato-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'Lato_ExtraBold';
+    src: url("../assets/fonts/Lato/Lato-ExtraBold.ttf") format("truetype");
+}
+
+:root {
+    --header-bg: rgba(16, 16, 29, 0.9);
+    --white: #FFFFFF;
+    --blue: #43ABF0;
+    --light-blue: #3E9CDC;
+    --black: #000000;
+    --dark-grey: #2A2B30;
+    --grey: #BBBBBB;
+    --order-border: #286690;
+    --order-column: 5;
+    --order-gap: 30px;
+}
